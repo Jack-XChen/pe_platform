@@ -35,3 +35,21 @@ Real-time visualization of completed versus total inspection items improves tran
 
 5. Improved Delivery Predictability
 Better progress tracking and structured workflow reduce the risk of schedule overruns and improve on-time SAT report delivery.
+
+# Success Criteria
+The project shall be considered successful if the following conditions are met:
+
+1. Project Duration Reduction
+The average SAT project duration is reduced by approximately two weeks compared to the current manual process.
+
+2. Automatic Daily Task Generation
+Daily inspection tasks are automatically generated upon user login based on the SAT inspection schedule.
+
+3. Report Auto-Generation Accuracy
+The system generates SAT reports in Excel format with correct structure and formatting, requiring no mandatory post-generation formatting adjustments.
+
+4. Embedded Image Integrity
+100% of required inspection images are automatically embedded in the exported Excel report.
+
+5. Manual Adjustment Capability
+Users retain the ability to manually adjust or override task completion status and report data when necessary.
